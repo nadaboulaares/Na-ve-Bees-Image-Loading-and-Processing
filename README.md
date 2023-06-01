@@ -1,1 +1,1 @@
-# -home-nada-Downloads-Na-ve-Bees-Image-Loading-and-Processing
+# Na-ve-Bees-Image-Loading-and-Processing
